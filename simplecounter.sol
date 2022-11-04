@@ -14,3 +14,4 @@ contract SimpleCounter {
               currentCount -= 1;
     }
 }
+// deployed at: https://goerli.etherscan.io/address/0x2020a25EF089b2292D52BaD57840010557331bB2
